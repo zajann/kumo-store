@@ -14,7 +14,7 @@ It is full stack Application including frontend and backend
 2. cmd "npm run build" (frontend releaser to backend)
 3. git add & commit & push (rsa, xxxxx)
 
-###How to update db
+### How to update db
 1. make new csv file in db/csv
 2. rewrite db by data_input.py
 3. git commit
